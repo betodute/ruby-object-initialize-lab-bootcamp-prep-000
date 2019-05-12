@@ -12,7 +12,7 @@ class Dog
     @name
   end
   
-  # end name but don't end class
+end
   
   def initialize (breed = "Mutt")
     @breed = breed
